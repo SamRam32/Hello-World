@@ -1,3 +1,10 @@
 # Hello-World
 Test Time!
-     / looks like I need to learn some new languages!
+     I Have yet to get the base source for the hardware setup.
+     SOON!
+     TICK
+     TOCK
+     TICK
+     TOCK
+     
+     Soon this will be code of clock.
