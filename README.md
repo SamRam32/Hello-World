@@ -1,3 +1,3 @@
 # Hello-World
 Test Time!
-     / looks like I need to learn some new languages!
+     Make some cool bits here to have a startup funtion to use clock as MM and other equipment.
